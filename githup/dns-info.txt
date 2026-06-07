@@ -1,0 +1,4 @@
+website:  Github
+DNS Server: fe80::1
+IP Address: 212.32.254.36
+Protocol: Https
